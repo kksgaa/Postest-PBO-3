@@ -23,6 +23,10 @@ Semua atribut Ticket (id, name, date, status) dibuat private. Data hanya bisa di
 
 RegularTicket dan VipTicket dibuat dengan extends Ticket. Keduanya mewarisi atribut dan method dari superclass.
 
+<img width="537" height="41" alt="image" src="https://github.com/user-attachments/assets/6b88c707-3cdd-423a-94d9-65a82bb0bf49" />
+
+<img width="491" height="28" alt="image" src="https://github.com/user-attachments/assets/0c1f7fec-e78c-457c-bddd-44fb8f393195" />
+
 **Overriding**
 
 Subclass RegularTicket dan VipTicket mewarisi Ticket lalu menimpa (override) method info() agar menambahkan label sesuai jenis tiket.
